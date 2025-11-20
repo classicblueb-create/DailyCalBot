@@ -1,0 +1,7 @@
+{
+  "name": "Daily Food Scan",
+  "description": "A cute, minimal nutrition assistant to track your daily meals and calories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
